@@ -15,6 +15,10 @@
 @property NSMutableArray *objects;
 
 -(S0MLObject*)objectAtIndex:(NSInteger)index;
+-(S0MLObject*)firstObject;
+-(S0MLObject*)lastObject;
+
 -(NSInteger)indexOfObject:(id)object;
+-(NSInteger)count;
 
 @end

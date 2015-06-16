@@ -22,8 +22,20 @@
 	return [_objects objectAtIndex:index];
 }
 
+-(S0MLObject *)firstObject{
+	return [_objects firstObject];
+}
+
+-(S0MLObject *)lastObject{
+	return [_objects lastObject];
+}
+
 -(NSInteger)indexOfObject:(id)object{
 	return [_objects indexOfObject:object];
+}
+
+-(NSInteger)count{
+	return [_objects count];
 }
 
 @end
