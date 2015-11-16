@@ -1,8 +1,7 @@
 Side 0ne Markup Language
 ========================
 XML. so many \</>\</>\</>.  
-CVS, simple but what the hell is readablity.
-
+CVS, simple but terrible readablity.  
 It sucks, So I start to create new markup language that is easy to write, easy to read with only basic text editor.
 #S0ML Document
 ##Examples
