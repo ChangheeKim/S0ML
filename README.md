@@ -1,12 +1,8 @@
 Side 0ne Markup Language
 ========================
-I had made a flash card iphone app to teach my wife Korean words.
-Because it's not for sale, I wrote bunch of word data in code.
-But, after a while, everytime I need to connect my wife's iphone to mac to update word database, so I felt that I should make it uses XML or something like CSV, so if I upload words to server, my wife's iphone get newest word database automatically.
-
-but, XML. so many \</>\</>\</>.  
-CVS, simple but what the hell is readablity. I want to add word data to server with only iphone.  
-So, I create new markup language that can be wrote and easily readable via even basic text editor.
+XML. so many \</>\</>\</>.  
+CVS, simple but what the hell is readablity.
+It sucks, So I start to create new markup language that is easy to write, easy to read with only basic text editor.
 #S0ML Document
 ##Examples
 ###Example 1
