@@ -8,8 +8,8 @@ So I start to create new markup language that is easy to write, easy to read wit
 ###Example 1
 ```
 header>
-element0;
-element1;
+elementTag;
+elementTag;
 
 object0>
 element;
